@@ -1,0 +1,10 @@
+C:\Projects\C#\Sakura Clicker 1.2\Sakura Clicker 1.2\bin\Debug\Sakura Clicker 1.2.exe.config
+C:\Projects\C#\Sakura Clicker 1.2\Sakura Clicker 1.2\bin\Debug\Sakura Clicker 1.2.exe
+C:\Projects\C#\Sakura Clicker 1.2\Sakura Clicker 1.2\bin\Debug\Sakura Clicker 1.2.pdb
+C:\Projects\C#\Sakura Clicker 1.2\Sakura Clicker 1.2\obj\Debug\Sakura Clicker 1.2.csprojResolveAssemblyReference.cache
+C:\Projects\C#\Sakura Clicker 1.2\Sakura Clicker 1.2\obj\Debug\Sakura_Clicker_1._2.Form1.resources
+C:\Projects\C#\Sakura Clicker 1.2\Sakura Clicker 1.2\obj\Debug\Sakura_Clicker_1._2.Properties.Resources.resources
+C:\Projects\C#\Sakura Clicker 1.2\Sakura Clicker 1.2\obj\Debug\Sakura Clicker 1.2.csproj.GenerateResource.Cache
+C:\Projects\C#\Sakura Clicker 1.2\Sakura Clicker 1.2\obj\Debug\Sakura Clicker 1.2.exe
+C:\Projects\C#\Sakura Clicker 1.2\Sakura Clicker 1.2\obj\Debug\Sakura Clicker 1.2.pdb
+C:\Projects\C#\Sakura Clicker 1.2\Sakura Clicker 1.2\bin\Debug\WindowsInput.dll
